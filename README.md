@@ -2,6 +2,8 @@
 
 A markup language.
 
+NOTE: work in progress.
+
 ## Why another markup language
 
 The reason is simple. I need a language for writing blogs but I got tired of using markdown, so I decided to make my own.
